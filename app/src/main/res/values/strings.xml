@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RapidAuditPro</string>
+    <string name="location">Localización:</string>
+    <string name="audit">Revisión de calidad</string>
+    <string name="department">Departamento:</string>
+    <string name="controlTeam">Equipo de control:</string>
+    <string name="auditDate">Fecha:</string>
+    <string name="productName">Nombre del componente:</string>
+</resources>
